@@ -1,0 +1,11 @@
+{% extends 'tests/requirements.txt.jj2' %}
+{%block extras %}
+SQLAlchemy
+flask
+lxml
+pyexcel-xlsx>=0.1.0
+pyexcel-xls>=0.1.0
+pyexcel-text>=0.2.0
+pyexcel-handsontable
+psutil
+{%endblock%}

@@ -1,0 +1,13 @@
+nose
+mock;python_version<"3"
+codecov
+coverage
+flake8
+SQLAlchemy
+flask
+lxml
+pyexcel-xlsx>=0.1.0
+pyexcel-xls>=0.1.0
+pyexcel-text>=0.2.0
+pyexcel-handsontable
+psutil
